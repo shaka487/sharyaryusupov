@@ -1,0 +1,50 @@
+/* Reset */
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* main styling */
+html, 
+body {
+font-family: sans-serif;
+
+}
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+h1, 
+h2, 
+h3 {
+ padding: 20px;
+
+}
+
+p{
+margin: 10px 0;
+}
+
+#navbar {
+background-color: #333;
+color: #fff;
+overflow: auto;
+}
+
+
+navbar a{
+    color: #fff;
+}
+
+#navbar h1 {
+    float: left;
+    padding-top: 20px;
+}
+
+#navbar ul {
+    float: right;
+    list-style: none;
+}
